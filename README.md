@@ -1,4 +1,5 @@
 <div align="center">
+###23eun's Github
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=23eun&color=3d5a80)
 
@@ -10,14 +11,15 @@
   <br>
   <br>
   
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-800000?style=for-the-badge&logo=java&logoColor=white">
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+
 <br>    
   <br>
   <br>
